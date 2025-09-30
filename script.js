@@ -9,3 +9,7 @@ function resta(a, b) {
 function multiplica(a, b) {
     return a * b;
 }   
+
+function divicion(){
+    return 4/2;
+}
